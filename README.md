@@ -15,6 +15,6 @@
 - [JavaScript](https://www.javascript.com/)
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
-- [styled-components](https://styled-components.com/)
+- [Styled-Components](https://styled-components.com/)
 - [Storybook](https://storybook.js.org/)
 
