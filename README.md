@@ -1,6 +1,6 @@
 # Nora Mensah
 
-👋 Hi, I'm Nora. I'm a frontend engineer at [mPharma](https://mpharma.com/) where I develop web apps is building an Africa in good healh.
+👋 Hi, I'm Nora. I'm a frontend engineer at [mPharma](https://mpharma.com/) where I develop web apps is building an Africa in good health.
 
 ## About Me
 
