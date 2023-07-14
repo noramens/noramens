@@ -32,9 +32,5 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" /> 
 </p>
-<br>
-
-<br>
-<br>
 <hr>                                                                                      
 <br>
